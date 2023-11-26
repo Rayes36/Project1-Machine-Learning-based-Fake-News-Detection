@@ -1,2 +1,2 @@
-# Project1-Machine-Learning-based-Fake-News-Detection
+# Project5-Machine-Learning-based-Fake-News-Detection
 This project aims to combat the spread of fake news by by employing machine learning models that can detect fake news. We first used doc2vec as a vectorizer and then apply 2 machine learning models, that is Logistic regression and XGBoost to the data and compare both of the models to see which one is the best at detecting fake news. The dataset used in this project is a combination of four popular news datasets: Kaggle, McIntire, Reuters, and BuzzFeed Political: https://www.kaggle.com/datasets/saurabhshahane/fake-news-classification
